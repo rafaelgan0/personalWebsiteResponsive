@@ -1,0 +1,93 @@
+/* navigation bar */
+#banner {
+  background-color: #d47331;
+  padding: 0 3% 0 3%;
+}
+.pictureLogo {
+  width:60px;
+}
+.navbar-brand {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 125%;
+  color: #e2c591;
+}
+.navbar-brand:hover {
+  color: #d04b17;
+}
+.nav-link {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 125%;
+  color: #e2c591;
+}
+.nav-link:hover {
+  color: #d04b17;
+}
+.nav-item {
+  padding: 0 18px 0 18px;
+}
+.navbar-toggler-icon {
+  color: #e2c591;
+}
+/* homepage */
+#homepage {
+  background-color: #e2c591;
+  text-align: center;
+}
+h1 {
+  font-size: 500%;
+  font-family: 'Garamond', serif;
+  font-weight:bold;
+  margin:0;
+  margin-top:0px;
+  color: #d04b17;
+}
+.introOccupation {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 200%;
+  color: #d47331;
+}
+.sunDiv {
+  text-align:right;
+  padding: 50px 10% 0 0;
+}
+.sunImage {
+  width: 200px;
+}
+.mountainImage {
+  width:70%;
+}
+@media (max-width:900px) {
+  .sunImage {
+    width: 100px;
+  }
+  h1 {
+    font-size: 300%;
+    font-family: 'Garamond', serif;
+    font-weight:bold;
+    margin:0;
+    color: #d04b17;
+  }
+  .introOccupation {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 150%;
+    color: #d47331;
+  }
+  .mountainImage {
+    width:80%;
+  }
+}
+/* my Skills */
+#introduction {
+  background-color: #ddb061;
+  text-align: center;
+  margin-top:0;
+}
+.CartoonRaf {
+  width:300px;
+}
+.learnTxt {
+  font-family: 'Quicksand', sans-serif;
+  color:#d47331;
+  font-size: 150%;
+  margin: 0 auto 0 auto;
+}
