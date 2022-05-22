@@ -65,6 +65,10 @@ h1 {
   .sunImage {
     width: 100px;
   }
+  .dragonImg {
+    width:400px;
+    padding-bottom:50px;
+  }
   /* h1 {
     font-size: 300%;
     font-family: 'Garamond', serif;
